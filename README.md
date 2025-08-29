@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/22035027/README.md)
+[README.md](https://github.com/user-attachments/files/22036400/README.md)
 # 🚄 Indian Railways Smart Ticketing & Crowd Insights Platform
 
 [![GitHub stars](https://img.shields.io/github/stars/Coaad/indian-railways-smart-platform-complete?style=social)](https://github.com/Coaad/indian-railways-smart-platform-complete/stargazers)
@@ -15,7 +15,7 @@
 > **A next-generation, full-stack MERN application designed to revolutionize the Indian Railways experience with smart ticketing, real-time crowd monitoring, AI-powered assistance, and comprehensive security features.**
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/FF6B35/FFFFFF?text=🚄+Smart+Railways+Platform" alt="Indian Railways Smart Platform" />
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/2cf10dc6-665c-454a-9ae3-c60a3d199bc3.png" alt="Indian Railways Smart Platform Homepage" width="800"/>
 </div>
 
 ---
@@ -42,25 +42,48 @@ This isn't just another web application – it's a **comprehensive solution** th
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/300x200/004B87/FFFFFF?text=🏠+Homepage" alt="Homepage" width="300"/>
-        <br><sub><b>Modern Homepage Design</b></sub>
+        <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/2cf10dc6-665c-454a-9ae3-c60a3d199bc3.png" alt="Homepage" width="300"/>
+        <br><sub><b>🏠 Modern Homepage Design</b></sub>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/300x200/FF6B35/FFFFFF?text=📊+Live+Crowd+Data" alt="Crowd Monitoring" width="300"/>
-        <br><sub><b>Real-Time Crowd Monitoring</b></sub>
+        <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/e1e7d8c4-b028-49f3-8b39-f1cdb63395bb.png" alt="Crowd Monitoring" width="300"/>
+        <br><sub><b>📊 Real-Time Crowd Monitoring</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/300x200/10B981/FFFFFF?text=🎫+Digital+Tickets" alt="Smart Tickets" width="300"/>
-        <br><sub><b>QR-Based Smart Ticketing</b></sub>
+        <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/9a9b6520-741c-4182-8624-784835907be2.png" alt="Smart Tickets" width="300"/>
+        <br><sub><b>🎫 QR-Based Smart Ticketing</b></sub>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/300x200/8B5CF6/FFFFFF?text=🆘+Emergency+SOS" alt="SOS System" width="300"/>
-        <br><sub><b>Emergency SOS Dashboard</b></sub>
+        <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/8995761d-8c4c-40b4-9203-13b47a11f89a.png" alt="SOS System" width="300"/>
+        <br><sub><b>🆘 Emergency SOS Dashboard</b></sub>
       </td>
     </tr>
   </table>
+</div>
+
+### 🌟 **User Journey Through the Platform**
+
+<div align="center">
+  <h4>📱 A Complete Railway Experience</h4>
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/2cf10dc6-665c-454a-9ae3-c60a3d199bc3.png" alt="Homepage Interface" width="400"/>
+  <p><i>Users start with our intuitive homepage featuring train search and live updates</i></p>
+  
+  ⬇️
+  
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/e1e7d8c4-b028-49f3-8b39-f1cdb63395bb.png" alt="Live Crowd Data" width="400"/>
+  <p><i>Real-time crowd monitoring helps users choose less crowded compartments</i></p>
+  
+  ⬇️
+  
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/9a9b6520-741c-4182-8624-784835907be2.png" alt="Digital Tickets" width="400"/>
+  <p><i>Secure QR-based tickets are generated instantly after booking</i></p>
+  
+  ⬇️
+  
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/8995761d-8c4c-40b4-9203-13b47a11f89a.png" alt="Emergency Features" width="400"/>
+  <p><i>24/7 emergency SOS system ensures passenger safety throughout the journey</i></p>
 </div>
 
 ---
