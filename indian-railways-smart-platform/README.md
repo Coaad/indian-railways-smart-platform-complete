@@ -303,10 +303,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Portfolio**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile]
+### 🌟 **Connect With Me**
+- 💼 **LinkedIn**: www.linkedin.com/in/aksharaditya-deolia-17a47931a
+- 🌐 **Portfolio**: [Your Portfolio Website]
+- 📧 **Email**: [aksharadityadeolia@gmail.com]
+- **GitHub**: @Coaad
 
 ---
 
