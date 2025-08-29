@@ -497,10 +497,9 @@ We welcome contributions from the community! Here's how you can help:
 </div>
 
 ### 🌟 **Connect With Me**
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
+- 💼 **LinkedIn**: www.linkedin.com/in/aksharaditya-deolia-17a47931a
 - 🌐 **Portfolio**: [Your Portfolio Website]
-- 📧 **Email**: [your.email@example.com]
-- 🐦 **Twitter**: [@YourTwitterHandle]
+- 📧 **Email**: [aksharadityadeolia@gmail.com]
 
 ---
 
